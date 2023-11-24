@@ -3,19 +3,14 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "munchNtime-logo.png",
+      "type": "image/x-icon",
+      "sizes": "111x143"
     },
     {
-      "src": "logo192.png",
+      "src": "munchNtime-logo.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "111x143"
     }
   ],
   "start_url": ".",
